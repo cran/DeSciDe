@@ -1,4 +1,4 @@
-9a2df59eb6934dfbe9a23727084442dd *DESCRIPTION
+a35fb72e619524c930d3b9ccf94a92f6 *DESCRIPTION
 2099133907a775234bb29810ec6c1082 *LICENSE
 7fa681ccfc0bb394a964eb334eeb9f55 *NAMESPACE
 e1128d99216b0720e8ac50622d7a3e82 *R/descide_master_functions.R
@@ -9,8 +9,8 @@ dd4bcf320a1949c41e72a982165349ab *R/summary_and_plot_functions.R
 2b5adbd31233e92b16de9900824be548 *README.md
 9e876400f9ed164863456a93900d5fff *build/vignette.rds
 3e4f69708ea544804476eb132ea63fb0 *inst/doc/DeSciDe-vignette.R
-6f26ae45cd7e132dfc0dbd1edceeca7e *inst/doc/DeSciDe-vignette.Rmd
-2877e6458734d5c807ddafb688ec2647 *inst/doc/DeSciDe-vignette.html
+cd64804ef2155b95620c67b307e64e8e *inst/doc/DeSciDe-vignette.Rmd
+0c5ed500d009cb786be559c59d90445c *inst/doc/DeSciDe-vignette.html
 dca180804daff055a45bcbc9081fda2c *man/combine_summary.Rd
 c4800fc9a8c94257979148bff865497c *man/descide.Rd
 ca1541ed56ee33adc3adb8d281a6182a *man/plot_clustering.Rd
@@ -25,7 +25,7 @@ b3e72dfd112c5a664a19b3c5ff2506e3 *man/search_string_db.Rd
 e193d57c0e5d57c0c0087d2298c4089e *tests/testthat/test-boundaries.R
 a146af9811257685a99c35a280e89b3f *tests/testthat/test-descide-plots.R
 f72ba90272e2423c5e7ea3805097968e *tests/testthat/test-export.R
-6f26ae45cd7e132dfc0dbd1edceeca7e *vignettes/DeSciDe-vignette.Rmd
+cd64804ef2155b95620c67b307e64e8e *vignettes/DeSciDe-vignette.Rmd
 31a32e87fa29ce0cca8eef1aeab4f4c6 *vignettes/data/Network_full.pdf
 f902a32f4ee79d5f89de958c1138e966 *vignettes/data/Network_physical.pdf
 d4844517e57e720e1fc5db1f8dd92017 *vignettes/data/results_default.RData
